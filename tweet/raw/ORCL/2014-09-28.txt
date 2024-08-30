@@ -1,0 +1,1 @@
+{'text': 'Umang Gupta', 'publisher': {'href': 'https://www.edsurge.com', 'title': 'EdSurge'}, 'created_at': 'Sun, 28 Sep 2014 07:00:00 GMT', 'description': 'Umang Gupta  EdSurge', 'url': 'https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iUU5TY1lEeEJPc2NqTS1MZkJMdHBZUkZYb21zcnNhQUsyWlBFRl92U01rajNvTGp6QXE0Z29hUGd3R2liNzFrX2w3N2JQNXhBTTNOQXdR?oc=5&hl=en-US&gl=US&ceid=US:en'}

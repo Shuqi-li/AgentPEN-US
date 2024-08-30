@@ -1,0 +1,1 @@
+{'text': 'CEO Pay vs. Performance', 'publisher': {'href': 'http://graphics.wsj.com', 'title': 'WSJ'}, 'created_at': 'Wed, 24 Jun 2015 07:00:00 GMT', 'description': 'CEO Pay vs. Performance  WSJ', 'url': 'https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QQ1VVenIzZDVOMDI5VGlKX1J0TGozZjVoZU44a1lOXzM3NGJ5R3lOc2tOQV9uX1NxYWhsaHdQRHZxeldHaWFNMTJUTGQ?oc=5&hl=en-SG&gl=SG&ceid=SG:en'}

@@ -1,0 +1,1 @@
+{'text': 'Saleen Archives', 'publisher': {'href': 'https://electrek.co', 'title': 'Electrek'}, 'created_at': 'Fri, 18 Apr 2014 07:00:00 GMT', 'description': 'Saleen Archives  Electrek', 'url': 'https://news.google.com/rss/articles/CBMiSkFVX3lxTE5ULXRET1BwUVNnU3FLRGllUFFWZWE5c2kxUTRldDJ1Qnd3R0MwVWFiTHVDNC1JbVI5anB1a0xHR21Ec0ZHN0tZaUln?oc=5&hl=en-US&gl=US&ceid=US:en'}

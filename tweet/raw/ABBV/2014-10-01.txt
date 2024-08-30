@@ -1,0 +1,1 @@
+{'text': 'September | 2014 - Patently', 'publisher': {'href': 'https://patentlyo.com', 'title': 'Patently-O'}, 'created_at': 'Tue, 30 Sep 2014 07:00:00 GMT', 'description': 'September | 2014  Patently-O', 'url': 'https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9jM2N4RmlzYzl4ZlV1cjlLcmFHSFZZU3NJc1hUUHJPUWlSN0dJeDRLM1pJdUZmRWprbV9kMEh5NUtYUU0?oc=5&hl=en-US&gl=US&ceid=US:en'}
